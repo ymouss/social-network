@@ -1,0 +1,12 @@
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# ETC #
+######################
+*.pyo
+*.pyc
+*.idea
+*.venv
